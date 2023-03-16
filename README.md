@@ -2,7 +2,12 @@
 
 A short HowTo for loading linearized, column-major matrices of float32 values in python, using numpy.
 
-Run tests with:
+## Requirements
+
+- numpy
+- pytest (if you want to run tests)
+
+## Run tests
 
 ```bash
 pytest -v
